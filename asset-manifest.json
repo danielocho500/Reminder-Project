@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reminder-Project/static/css/main.23ac7230.css",
+    "main.js": "/Reminder-Project/static/js/main.3c9f4067.js",
+    "static/media/aboutUs.png": "/Reminder-Project/static/media/aboutUs.6d70afcbd815f4415f3f.png",
+    "static/media/home.png": "/Reminder-Project/static/media/home.ad3d8bc68b13c8203e8b.png",
+    "static/media/emailConf.jpg": "/Reminder-Project/static/media/emailConf.715e49d6473c9da4deed.jpg",
+    "static/media/confirmMail.png": "/Reminder-Project/static/media/confirmMail.e45ebb479eaf9b36f902.png",
+    "static/media/logo.png": "/Reminder-Project/static/media/logo.b003e13e1e322d9e9690.png",
+    "static/media/404Error.jpg": "/Reminder-Project/static/media/404Error.a13b53d5e37f49b4ef81.jpg",
+    "index.html": "/Reminder-Project/index.html",
+    "main.23ac7230.css.map": "/Reminder-Project/static/css/main.23ac7230.css.map",
+    "main.3c9f4067.js.map": "/Reminder-Project/static/js/main.3c9f4067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ac7230.css",
+    "static/js/main.3c9f4067.js"
+  ]
+}
